@@ -1,1 +1,2 @@
 CAM = Cooperative Awareness Message
+DENM = Decentralized Environmental Notification Message
