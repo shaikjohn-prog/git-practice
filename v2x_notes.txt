@@ -1,2 +1,3 @@
 CAM = Cooperative Awareness Message
 DENM = Decentralized Environmental Notification Message
+SREM = Signal Request Extended Message (ambulance asks for green signal)
